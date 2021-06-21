@@ -10,6 +10,13 @@ body {
 	background-color: #EEE;
 }
 
+.App {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
 header {
 	display: flex;
 	flex-direction: column;
